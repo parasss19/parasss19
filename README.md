@@ -37,4 +37,4 @@
 
 [![parasss19's GitHub | Languages Over Time](https://stats.quine.sh/parasss19/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=parasss19)
 
-[![An image of @parasss19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parasss19)](https://holopin.io/@parasss19)
+[![An image of @parasss19's Holopin badges](https://holopin.me/parasss19)](https://holopin.io/@parasss19)
