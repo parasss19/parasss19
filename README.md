@@ -2,7 +2,7 @@
 
 <h1 align="center">👋
 <h2 align="center">A passionate frontend developer from India⭐</h3>
-
+ 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parasss19&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="parasss19" /> </p>
 
 <img align="right" alt="Coding" width="340" height="380" src="https://res.cloudinary.com/dxxeks4o5/image/upload/v1690792831/6876191_zh74es.jpg">
