@@ -5,7 +5,8 @@
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fparasss19&labelColor=%23d9e3f0&countColor=%23555555"/>
+
+ <img src="https://komarev.com/ghpvc/?username=parasss19&label=Visitors&color=0e75b6&style=for-the-badge" alt="parasss19" /> 
   <br><br>
 
   <a href="https://www.linkedin.com/in/paras-mehta19/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
