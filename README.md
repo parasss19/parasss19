@@ -1,40 +1,87 @@
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+
 ![MasterHead](https://res.cloudinary.com/dxxeks4o5/image/upload/v1690790167/github-header-image_vyjimt.png)
 
-<h1 align="center">👋
-<h2 align="center">A passionate frontend developer from India⭐</h3>
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fparasss19&labelColor=%23d9e3f0&countColor=%23555555"/>
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/paras-mehta19/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:mehtaparas1901@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="parasss19"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="paras"></a>
+  <a href="https://twitter.com/ParasMe12853105"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="paras" ></a>
+</div>
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div>
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=parasss19&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="parasss19" /> </p>
+<div align="center">
+ <h3><b>&nbsp; ❤️ I love open source.</b></h3><br>
+</div>
 
-<img align="right" alt="Coding" width="340" height="380" src="https://res.cloudinary.com/dxxeks4o5/image/upload/v1690792831/6876191_zh74es.jpg">
+👋 Greetings!  I'm Paras, an enthusiastic full-stack developer from India.
 
- 🌱 I’m currently learning **ReactJs**
+🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science
 
- 💬 Ask me about **JavaScript, React**
+⭐ I built [foodCare](https://parasss19.github.io/Food-Care/) in Buildspace Season 4 and also continue to make it solve the real world hunger.
 
- 📫 How to reach me **mehtaparas1901@gmail.com**
+🏆 Secured [24th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor)
 
-⚡ Fun fact **I am Engineer**
+🎁 I have actively participated in many hackathons.
 
+ 🌱 I’m currently learning **Backend Develoopment,Restful-Apis**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paras-mehta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paras-mehta19" height="30" width="40" /></a>
-<a href="https://instagram.com/parassssssx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parassssssx" height="30" width="40" /></a>
-</p>
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
 <br>
 
-[![parasss19's GitHub | Topics Over Time](https://stats.quine.sh/parasss19/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=parasss19)
+<hr>
 
-[![parasss19's GitHub | Stats](https://stats.quine.sh/parasss19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=parasss19)
+<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=parasss19&" alt="parasss19" /></p>
+# Skills
 
-[![parasss19's GitHub | Languages Over Time](https://stats.quine.sh/parasss19/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=parasss19)
+| Category        | Skills        |
+|-----------------|---------------|
+| Frameworks| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |
+| Languages       | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
+| Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> |
+| Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=udacity&logoColor=white" />  |
+| Services & Tools| <a href="https://github.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />|
+| Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> |
+| APIs | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />   |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
+
+
+
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasss19&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+
+
+<br>
+
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+![Paras GitHub stats](https://github-readme-stats.vercel.app/api?username=parasss19&show_icons=true&theme=dracula)  | [![Paras GitHub Streak](https://streak-stats.demolab.com/?user=parasss19&show_icons=true&theme=dracula)](https://git.io/streak-stats) |
+| -- | -- |
+
+<hr>
+
+<br>
 
 [![An image of @parasss19's Holopin badges](https://holopin.me/parasss19)](https://holopin.io/@parasss19)
+
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
