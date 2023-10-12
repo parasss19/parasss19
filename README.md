@@ -36,7 +36,7 @@
 
 🎁 I have actively participated in many hackathons.
 
- 🌱 I’m currently learning **Backend Develoopment,Restful-Apis**
+ 🌱 I’m currently learning **Backend Development,Restful-Apis**
 
 </div>
 
