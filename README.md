@@ -30,13 +30,11 @@
 
 🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science
 
-⭐ I built [foodCare](https://parasss19.github.io/Food-Care/) in Buildspace Season 4 and also continue to make it solve the real world hunger.
-
 🏆 Secured [24th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor)
 
 🎁 I have actively participated in many hackathons.
 
- 🌱 I’m currently learning **Backend Development,Restful-Apis**
+ 🌱 I’m currently learning **Backend Development**
 
 </div>
 
