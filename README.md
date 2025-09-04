@@ -62,7 +62,7 @@
 I enjoy building scalable applications, contributing to open-source, and exploring new technologies.  
 
 - 🎓 Pursuing **B.Tech in Computer Science**  
-- 🏆 Secured **[24th Rank](https://gssoc.girlscript.tech/leaderboard)** at **GSSoC’23** (Contributor)  
+- 🏆 Secured **[24th Rank](https://res.cloudinary.com/dxxeks4o5/image/upload/v1756971820/Paras_Mehta_Cert_Top_Contributor_GSSoC2023_xozdov.png)** at **GSSoC’23** (Contributor)  
 - 💡 Actively participated in multiple **hackathons** and **Open Source Competitions**
 - 🚀 Postman Student Expert  
 - 🌱 Currently learning **Docker**, and **Redis**  
